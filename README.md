@@ -1,4 +1,4 @@
 # RNGooglepayments (Android only)
 
-React-native implementation of google payments using native android code.
+Sample React-Native implementation of google payments using native android code.
 
